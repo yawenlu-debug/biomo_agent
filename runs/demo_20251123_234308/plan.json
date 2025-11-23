@@ -1,0 +1,9 @@
+{
+  "modality": "scRNA",
+  "steps": [
+    {
+      "id": "preprocess",
+      "type": "sc_preprocess"
+    }
+  ]
+}

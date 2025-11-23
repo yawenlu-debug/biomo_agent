@@ -1,0 +1,7 @@
+streamlit
+watchdog
+langchain-openai
+langgraph
+scanpy
+matplotlib
+
